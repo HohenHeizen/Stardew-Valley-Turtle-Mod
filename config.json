@@ -1,0 +1,4 @@
+{
+  //Full conversion of dinosaur into turtle. Replaces item name & description to that of a turtle.
+  "FullConvert": "true"
+}

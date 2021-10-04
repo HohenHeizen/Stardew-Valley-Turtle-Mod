@@ -1,0 +1,12 @@
+{
+   "Name": "Dinosaur Replacement - Turtle",
+   "Author": "Hohen",
+   "Version": "2.0.0",
+   "Description": "Converts the Dinosaur into a Turtle.",
+   "UniqueID": "HH.Dinosaur",
+   "MinimumApiVersion": "2.5",
+   "UpdateKeys": [ "2778" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}
